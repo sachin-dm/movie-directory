@@ -1,0 +1,11 @@
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/JavaBackendInterviewApplication.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/advice/MovieControllerAdvice.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/dto/MovieDto.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/exception/InvalidMovieException.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/exception/MovieDoesNotExistException.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/model/Movie.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/repository/MovieRepository.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/rest/MovieController.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/service/MovieService.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/validation/MovieValidator.java
+/Users/sachin/Workspaces/movie-directory/src/main/java/com/real/interview/validation/Validator.java

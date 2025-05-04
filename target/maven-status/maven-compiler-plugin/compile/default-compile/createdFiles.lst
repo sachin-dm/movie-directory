@@ -1,0 +1,12 @@
+com/real/interview/validation/MovieValidator.class
+com/real/interview/model/Movie.class
+com/real/interview/model/Movie$MovieBuilder.class
+com/real/interview/rest/MovieController.class
+com/real/interview/dto/MovieDto.class
+com/real/interview/repository/MovieRepository.class
+com/real/interview/advice/MovieControllerAdvice.class
+com/real/interview/JavaBackendInterviewApplication.class
+com/real/interview/service/MovieService.class
+com/real/interview/exception/MovieDoesNotExistException.class
+com/real/interview/validation/Validator.class
+com/real/interview/dto/MovieDto$MovieDtoBuilder.class
